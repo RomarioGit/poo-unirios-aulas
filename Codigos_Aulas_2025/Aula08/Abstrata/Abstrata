@@ -1,0 +1,41 @@
+Conceito de Classe Abstrata
+Uma classe abstrata em Java é uma classe que não pode ser instanciada diretamente. Ela serve como um modelo ou base para
+ outras classes (subclasses) que herdam dela. A principal característica de uma classe abstrata é que ela pode conter
+ métodos abstratos (métodos sem implementação) e métodos concretos (métodos com implementação).
+
+Características Principais:
+Não pode ser instanciada:
+
+Você não pode criar objetos diretamente de uma classe abstrata.
+
+Exemplo: Animal animal = new Animal(); → Isso geraria um erro de compilação.
+
+Pode conter métodos abstratos:
+
+Métodos abstratos são declarados, mas não implementados na classe abstrata.
+
+Eles devem ser implementados pelas subclasses que herdam da classe abstrata.
+
+Pode conter métodos concretos:
+
+Métodos com implementação completa podem ser definidos na classe abstrata.
+
+Esses métodos podem ser herdados e usados diretamente pelas subclasses.
+
+Pode conter atributos:
+
+Uma classe abstrata pode ter atributos (variáveis de instância) que são herdados pelas subclasses.
+
+Uso de herança:
+
+Uma classe abstrata é usada como base para outras classes. As subclasses devem implementar os métodos abstratos ou
+também podem ser declaradas como abstratas.
+
+Resumo
+Uma classe abstrata é usada para definir um modelo ou base para outras classes.
+
+Ela pode conter métodos abstratos (sem implementação) e métodos concretos (com implementação).
+
+Subclasses que herdam de uma classe abstrata devem implementar os métodos abstratos.
+
+É útil para compartilhar código comum entre classes e definir contratos que as subclasses devem seguir.
