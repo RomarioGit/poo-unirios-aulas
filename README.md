@@ -11,13 +11,13 @@ Codigos_Aulas_2025/	Códigos de turmas anteriores, para consulta
 Projeto_Login_mvc_dao/	Projeto de exemplo de tela de login usando os padrões MVC e DAO com acesso a banco de dados
 
 📚 Conteúdos abordados
-Classes, objetos, atributos e métodos
-Encapsulamento, construtores, getters e setters
-Herança e polimorfismo
-Classes abstratas e interfaces
-Coleções e tratamento de exceções
-Padrão MVC (Model–View–Controller)
-Padrão DAO e conexão com banco de dados
+Classes, objetos, atributos e métodos;
+Encapsulamento, construtores, getters e setters;
+Herança e polimorfismo;
+Classes abstratas e interfaces;
+Coleções e tratamento de exceções;
+Padrão MVC (Model–View–Controller);
+Padrão DAO e conexão com banco de dados.
 
 ▶️ Como usar
 Opção 1: clonar pelo IntelliJ
@@ -35,8 +35,8 @@ Requisito: ter o JDK (Java) instalado e configurado no IntelliJ.
 
 O repositório é atualizado ao longo do semestre. Se você clonou, use Git → Pull no IntelliJ (ou git pull no terminal) para baixar os códigos das aulas mais recentes.
 
-👨‍🏫 Professor Me. Romário Elias
-Bacharelado em Sistemas de Informação 
+👨‍🏫 Professor Me. Romário Elias -
+Bacharelado em Sistemas de Informação -
 Centro Universitário do Rio São Francisco (UniRios)
 
 Material de uso acadêmico. Os códigos têm fins didáticos e podem ser simplificados para facilitar o aprendizado.
